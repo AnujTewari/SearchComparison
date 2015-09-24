@@ -1,9 +1,9 @@
 # SearchComparison
-Comparing search algorithms(BFS, DFS and GBFS)
-	Navigation is a common problem for intelligent agents (especially robots). The simple 2D version of this problem 
+Comparing search algorithms(BFS, DFS and GBFS).
+Navigation is a common problem for intelligent agents (especially robots). The simple 2D version of this problem 
 relates to everything from a robot wandering the hallways of a building, to a taxi navigating the streets of city to get
 to a destination.
-	We can model navigation as a discrete search by designating way points covering the free space, e.g. laid out on
+We can model navigation as a discrete search by designating way points covering the free space, e.g. laid out on
 a grid. The way points (or vertices) are connected by edges which may be safely travelled without causing a collision 
 with an obstacle. Thus we can think of the way points abstractly as an undirected graph. The initial state and goal
 states are just given as vertices in the graph, and the objective is to find a path that connects them.
@@ -15,6 +15,8 @@ The purpose of this project is to implement and compare the performance of
 on a navigation problem, i.e. path finding. Here ATM graph(ATMGraph.jpeg) is taken as the navigation model.
 
 The performance and the evalutaion of the three algorithm for the model is shown in PerformanceMetrics.pdf
+
+
 ============================================================================================================================
 
 Language used : Java(JRE 7)
