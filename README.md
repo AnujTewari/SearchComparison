@@ -1,6 +1,6 @@
 # SearchComparison
-Comparing search algorithms(BFS, DFS and GBFS).
-Navigation is a common problem for intelligent agents (especially robots). The simple 2D version of this problem 
+Comparision of Search Algorithms. 
+	Navigation is a common problem for intelligent agents (especiialy robots). The simple 2D version of this problem 
 relates to everything from a robot wandering the hallways of a building, to a taxi navigating the streets of city to get
 to a destination.
 We can model navigation as a discrete search by designating way points covering the free space, e.g. laid out on
